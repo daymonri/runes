@@ -8,7 +8,7 @@ theme: material
 
 nav:
     - Феху: fehu.md
-    - Уруз: index.md
+    - Уруз: uruz.md
     - Турисаз: index.md
     - Ансуз: index.md
     - Райдо: index.md
