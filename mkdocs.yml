@@ -1,0 +1,13 @@
+site_name: Runes
+site_url: https://github.com/daymonri/runes.git
+site_description: A brief interpretation of the runes.
+site_author: Alexey Frolov
+repo_url: https://github.com/daymonri/runes.git
+
+theme: material
+
+nav:
+    - Феху: index.md
+    - Уруз: index.md
+
+copyright: Copyright &copy; 2024
