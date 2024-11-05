@@ -1,9 +1,6 @@
 # Феху
 
-<figure markdown="span">
-  ![Феху](image/01_fehu.png){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
+![Руна Феху](image/01_fehu.png)
 
 ### Прямое положение
 
