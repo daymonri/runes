@@ -1,5 +1,5 @@
 site_name: Runes
-site_url: https://github.com/daymonri/runes.git
+site_url: https://daymonri.github.io/runes/
 site_description: A brief interpretation of the runes.
 site_author: Alexey Frolov
 repo_url: https://github.com/daymonri/runes.git
@@ -7,7 +7,43 @@ repo_url: https://github.com/daymonri/runes.git
 theme: material
 
 nav:
-    - Феху: index.md
+    - Феху: fehu.md
     - Уруз: index.md
+    - Турисаз: index.md
+    - Ансуз: index.md
+    - Райдо: index.md
+    - Кеназ: index.md
+    - Гебо: index.md
+    - Виньо: index.md
+    - Хагалаз: index.md
+    - Наудис: index.md
+    - Иса: index.md
+    - Йера: index.md
+    - Эйваз: index.md
+    - Перт: index.md
+    - Альгиз: index.md
+    - Сол: index.md
+    - Тейваз: index.md
+    - Беркана: index.md
+    - Эваз: index.md
+    - Манназ: index.md
+    - Лагуз: index.md
+    - Ингуз: index.md
+    - Дагаз: index.md
+    - Одал: index.md
+    - Руна Одина: index.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
 
 copyright: Copyright &copy; 2024
