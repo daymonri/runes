@@ -9,29 +9,30 @@ theme: material
 nav:
     - Феху: fehu.md
     - Уруз: uruz.md
-    - Турисаз: index.md
-    - Ансуз: index.md
-    - Райдо: index.md
-    - Кеназ: index.md
-    - Гебо: index.md
-    - Виньо: index.md
-    - Хагалаз: index.md
-    - Наудис: index.md
-    - Иса: index.md
-    - Йера: index.md
-    - Эйваз: index.md
-    - Перт: index.md
-    - Альгиз: index.md
-    - Сол: index.md
-    - Тейваз: index.md
-    - Беркана: index.md
-    - Эваз: index.md
-    - Манназ: index.md
-    - Лагуз: index.md
-    - Ингуз: index.md
-    - Дагаз: index.md
-    - Одал: index.md
-    - Руна Одина: index.md
+    - Турисаз: turisaz.md
+    - Ансуз: ansuz.md
+    - Райдо: raido.md
+    - Кеназ: kenaz.md
+    - Гебо: gebo.md
+    - Виньо: winjo.md
+    - Хагалаз: hagalaz.md
+    - Наудис: naudiz.md
+    - Иса: isa.md
+    - Йера: jera.md
+    - Эйваз: ihwaz.md
+    - Перт: pert.md
+    - Альгиз: algiz.md
+    - Сол: sol.md
+    - Тейваз: teivaz.md
+    - Беркана: berkana.md
+    - Эваз: evaz.md
+    - Манназ: mannaz.md
+    - Лагуз: laguz.md
+    - Ингуз: inguz.md
+    - Дагаз: dagaz.md
+    - Одал: odal.md
+    - Руна Одина: runa_odina.md
+    - Ключевые образы: obrazi.md
 
 markdown_extensions:
   - pymdownx.highlight:
