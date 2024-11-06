@@ -47,4 +47,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+markdown_extensions:
+  - markdown.extensions.toc:
+      baselevel: 1
+      permalink: true
+      title: «Содержание»
+
 copyright: Copyright &copy; 2024
