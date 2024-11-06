@@ -8,5 +8,5 @@
 |[Кеназ](kenaz.md)|[Перт](pert.md)|[Ингуз](inguz.md)|
 |[Гебо](gebo.md)|[Альгиз](algiz.md)|[Дагаз](dagaz.md)|
 |[Виньо](winjo.md)|[Сол](sol.md)|[Одал](odal.md)|
-||[Руна Одина](runa_odina.md)||
+||[Руна_Одина](runa_odina.md)||
 ||[Ключевые образы](obrazi.md)||
