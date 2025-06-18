@@ -7,7 +7,7 @@ repo_url: https://github.com/daymonri/runes.git
 theme: material
 
 nav:
-    - Феху1: fehu.md
+    - Феху: fehu.md
     - Уруз: uruz.md
     - Турисаз: turisaz.md
     - Ансуз: ansuz.md
